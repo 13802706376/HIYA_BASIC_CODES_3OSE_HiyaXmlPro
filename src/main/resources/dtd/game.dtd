@@ -1,0 +1,8 @@
+<!ELEMENT warrior  (#PCDATA)>
+<!ELEMENT hero  (#PCDATA)>
+<!ELEMENT name  (#PCDATA)>
+<!ELEMENT weapons  (#PCDATA)>
+<!ELEMENT skill  (#PCDATA)>
+<!ELEMENT magician  (#PCDATA)>
+<!ELEMENT archer  (#PCDATA)>
+<!ELEMENT ranger  (#PCDATA)>
